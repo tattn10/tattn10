@@ -1,5 +1,5 @@
 
-<img width="1200" height="400" alt="cool_dude-coding" src="https://github.com/user-attachments/assets/7c0eefb5-eb5a-4158-a7f6-4a5a1f9144e1" />
+<img width="800" height="200" alt="cool_dude-coding" src="https://github.com/user-attachments/assets/7c0eefb5-eb5a-4158-a7f6-4a5a1f9144e1" />
 <h2>👋 Tarik Anam, here!</h2>
 <h4>👀 MERN stack Web Developer</h4>
 <h2>Technologies: </h2> 

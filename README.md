@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @tattn10
+
+<h1>- 👋 Hi, I’m @tattn10</h1>
 - 👀 I’m interested in coding, web dev, learning new things
 - 🌱 I’m currently learning solidworks
 - 💞️ I’m looking to collaborate on competetive programming 

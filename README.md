@@ -3,15 +3,15 @@
 <h2>👋 Tarik Anam, here!</h2>
 <h3>👀 MERN stack Web Developer</h3>
 <h2>Technologies: </h2> 
-<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/1d15930e-187f-43c2-870f-e9788c7c0647" />
-<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/c390a936-5f0e-490e-9ee8-ac1c8da16f2a" />
-<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/6ab8a53f-6032-4918-8663-ebb5d18733be" />
-<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/b441fe4f-1f37-4152-a96d-a887f9556162" />
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/1d15930e-187f-43c2-870f-e9788c7c0647" />
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c390a936-5f0e-490e-9ee8-ac1c8da16f2a" />
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/6ab8a53f-6032-4918-8663-ebb5d18733be" />
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/b441fe4f-1f37-4152-a96d-a887f9556162" />
 
 <h2>How to reach me: </h2> 
 <a href="https://www.facebook.com/tarik.tonmoy.2025"><img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/8cea6735-dbac-49ae-a7ec-a4709ec2192b" /></a>
-<a><img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/2e5f9984-ee75-4477-9401-6784dc054f6e" /></a>
-<a><img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/4ef5d2c7-0435-4c81-ac09-d2f3b2ea7c8e" /></a>
+<a><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2e5f9984-ee75-4477-9401-6784dc054f6e" /></a>
+<a><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4ef5d2c7-0435-4c81-ac09-d2f3b2ea7c8e" /></a>
 
 
 

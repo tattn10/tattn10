@@ -1,6 +1,5 @@
 
-<img width="1408" height="768" alt="cool-dude-tat-coding" src="https://github.com/user-attachments/assets/4a9acb64-0406-4750-a57a-b86084d975fa" />
-
+<img width="1408" height="700" alt="cool_dude-coding" src="https://github.com/user-attachments/assets/7c0eefb5-eb5a-4158-a7f6-4a5a1f9144e1" />
 <h3>👋 Hi, I’m @tattn10</h1>
 - 👀 I’m interested in coding, web dev, learning new things
 - 🌱 I’m currently learning solidworks
